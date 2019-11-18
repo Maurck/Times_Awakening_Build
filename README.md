@@ -6,7 +6,7 @@ Actualmente el juego posee:
 -Sistema de misiones
 -Sistema de leveleo
 -Sistema de dialogos
--Sistema de batalla 1vs1
+-Sistema de batalla 4vs4 basico
 -NPCS
 -Minimapa
 -Panel de personaje
@@ -17,7 +17,6 @@ Actualmente el juego posee:
 -Menu de pausa
 
 Le falta:
--Sistema de batalla 4vs4
 -Sistema de intercambio de personajes
 -Sistema de dialogos mejorado
 -Sistema de misiones mejorado
