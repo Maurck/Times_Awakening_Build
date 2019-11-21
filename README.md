@@ -15,6 +15,7 @@ Actualmente el juego posee:
 -Diferentes escenarios
 -Menu principal
 -Menu de pausa
+-Sistema de correr
 
 Le falta:
 -Sistema de intercambio de personajes
